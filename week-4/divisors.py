@@ -9,6 +9,7 @@ def div_array(n, i=1):
     if n%i==0:
         print(i ,end=" ")
     div_array(n, i+1)
-n=6
-div_array(n)
+div_array(6)
+print("\n")
+div_array(12)
     
