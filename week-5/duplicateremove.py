@@ -8,7 +8,7 @@ class Solution:
                 l.append(i)
         print(l)
                            
-arr=[2, 2, 2,2,2]
+arr=[1,2,2,3,4,4,5,5,5,6,7,8,8]
 rr=[1,2,4]
 sol=Solution()
 sol.removeDuplicates(arr)
